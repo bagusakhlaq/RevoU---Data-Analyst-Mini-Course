@@ -26,12 +26,12 @@ Before you start...
 
 ## Case Study Instructions:
 ###Table of interest:
-'''bash
+```bash
 'bigquery-public-data.thelook_ecommerce.orders'
 'bigquery-public-data.thelook_ecommerce.order_items'
 'bigquery-public-data.thelook_ecommerce.users'
 'bigquery-public-data.thelook_ecommerce.products'
-'''
+```
 &nbsp
 &nbsp
 Note: You may use a free account on Google BigQuery to do some queries and analyze the BigQuery dataset.
