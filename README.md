@@ -1,0 +1,2 @@
+# RevoU---Data-Analyst-Mini-Course
+REPOSITORY INI ADALAH DOKUMENTASI KEGIATAN
