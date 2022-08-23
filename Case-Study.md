@@ -3,7 +3,7 @@
 ## Preparations and Submission Details
 <dl>
   <dd>- The deadline will be on Saturday, at 11.59 (WIB)</dd>
-  <dd>- Link to submit the assignment is <a href:"https://forms.gle/9XKmpe7FB93AMTT36">here</a></dd>
+  <dd>- Link to submit the assignment is <a href="https://forms.gle/9XKmpe7FB93AMTT36">here</a></dd>
   <dd>- The answer for the case study will be shared after Mini Course ends</dd>
 </dl>
 
@@ -39,5 +39,5 @@ Please answer the below questions.
   <li>Look at this data and start thinking. List down 3 trends/points that you think need to be shown.</li>
   <li>From here, try to explore the data and make changes, filter, and prepare the data that you need.</li>
   <li>Create some visualizations or dasshboard with the best type of chart that you have learned. You could use any tools as you wish, it's not limited only to the tools that you have been taught throughout the mini course.</li>
-  <li>Then, make 1-2 slides from the graphs with the insights you got to present your findings to take the stakeholders (read this <a href:"https://hbr.org/2020/02/present-your-data-like-a-pro">article</a> from HBR).</li>
+  <li>Then, make 1-2 slides from the graphs with the insights you got to present your findings to take the stakeholders (read this <a href="https://hbr.org/2020/02/present-your-data-like-a-pro">article</a> from HBR).</li>
 </ol>
